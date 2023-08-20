@@ -9,6 +9,5 @@ def articles():
         data = json.load(file)
         return data
 
-
 if __name__ == "__main__":
     app.run(debug=True)
