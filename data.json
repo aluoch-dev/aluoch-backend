@@ -12,6 +12,20 @@
             "intro": "In the previous article, we mentioned that in Python programming, there are two distinguishable Errors; syntax errors and exceptions. In this article, we are going to explore exceptions, taking a dive into the different exceptions and how to handle them.",
             "link":"https://medium.com/@aluoch-laurine/part-one-python-errors-exceptions-and-exception-handling-a-comprehensive-guide-aa9b75772adf"
         }
-    ]
+    ],
+    "projects": [
+        { 
+            "src": "images/aluoch-app.jpg", 
+            "title":"aluoch.", 
+            "description":"A professional portfolio designed in Figma and built using ReactJs and Tailwind CSS", hostingLink: "https://aluoch.vercel.app/", gitHubLink: "https://github.com/aluoch-dev/aluoch."},
+        { 
+            "src": "images/heatmap.png", 
+            "title":"heatmap", 
+            "description":"An implementation of the Google Heatmap Layer as a data visualization tool mapping patient data. Built using JavaScript.", gitHubLink: "https://github.com/aluoch-dev/heatMap"},
+        { 
+            "src": "images/flipcard.png", 
+            "title":"flipcard game",
+            "description":"A single player flipcard built using Bootsrap and React Js", hostingLink:"https://flippcard-app.vercel.app/", gitHubLink:"https://github.com/aluoch-dev/flipcard-game"}
+      ]
  }
     
